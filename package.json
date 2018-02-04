@@ -1,0 +1,28 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "node hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "joe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephwilliam11/liri-node-app.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "joe arnold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephwilliam11/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/josephwilliam11/liri-node-app#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
